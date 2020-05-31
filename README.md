@@ -12,7 +12,7 @@ Enjoy!
 
 Clone this repository to you computer or browse it online!
 
-If you want to see that implementation, go straight to [Assets/Scripts/](https://bitbucket.org/gaello/pixelate-shader/src/master/Assets/Scripts/) folder. You will find all code that I wrote to make it work. Code also have comments so it would make a little bit more sense.
+If you want to see that implementation, go straight to [Assets/Scripts/](https://bitbucket.org/gaello/pixelated-shader/src/master/Assets/Scripts/) folder. You will find all code that I wrote to make it work. Code also have comments so it would make a little bit more sense.
 
 I hope you will enjoy it!
 
